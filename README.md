@@ -5,7 +5,6 @@
 
 
 - 👋 Hi, I’m Fady Samy 
-- My old account closed due to unusual behavior done by a malware I faced Thanks for understanding.
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 #### Data Scientist whos Seeking for learning, achieving. Most of my work is about solving the problems using the best solution regardless of 
 #### tools or science that help to achieve the goals. With acceptable knowledge with Desktop and Web Development. Dealing with data e.g 
@@ -20,9 +19,7 @@
   <a href="[https://www.facebook.com/Rockloka75/](https://www.facebook.com/profile.php?id=100003338003069)" target="[https://www.facebook.com/Rockloka75](https://www.facebook.com/profile.php?id=100003338003069)"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Mahmoud Yahia" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/maahmoud_yahia/?hl=en" target="https://www.instagram.com/maahmoud_yahia/?hl=en"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.Mahmoud._" height="30" width="40" /></a>
+ 
 </p>
 
 <br>
