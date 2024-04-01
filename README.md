@@ -10,5 +10,4 @@
 #### tools or science that help to achieve the goals. With acceptable knowledge with Desktop and Web Development. Dealing with data e.g 
 #### Understanding Viualization and Analyze, good reseacher whos able to learn, benefit, teach and move on the committed to the diligent. Interested 
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;Connect with Me </h3> 
-<br>
+
